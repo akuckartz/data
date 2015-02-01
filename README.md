@@ -3,17 +3,14 @@ Convenient Open Data Repository for Cologne
 
 ## Description
 
-This repository re-publishes some open datasets for the city of Cologne
+This Linked Open Data repository re-publishes some open datasets for the city of Cologne
 and offers alternative formats and specific tools in order to facilitate 
-the applications of that data. By using GitHub it should also become 
-easy to follow changes and updates in the datasets.
+the applications of that data.
 
 ## Beschreibung
 
-Dieses Repository hält einige offene Datensätze der Stadt Köln bereit, um
-deren Anwendung zu erleichtern. Durch den Gebrauch von GitHub soll es zudem
-einfacher sein, Änderungen und Aktualisierungen an den Daten nachvollziehen
-zu können.
+Dieses Linked Open Data Repository hält einige offene Datensätze der Stadt Köln bereit, um
+deren Anwendung zu erleichtern.
 
 ## Community
 
@@ -29,58 +26,58 @@ for additional info.
 
 #### budget - Public budget/finance data
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/budget)
+[Read more](https://github.com/akuckartz/data/tree/master/data/budget)
 
 #### elections - Election results and candidates
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/elections)
+[Read more](https://github.com/akuckartz/data/tree/master/data/elections)
 
 #### employment - Statistical data on (un-)employment
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/employment)
+[Read more](https://github.com/akuckartz/data/tree/master/data/employment)
 
 #### energy - electricity, ...
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/energy)
+[Read more](https://github.com/akuckartz/data/tree/master/data/energy)
 
 #### environment - Weather, air, ...
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/environment)
+[Read more](https://github.com/akuckartz/data/tree/master/data/environment)
 
 #### geo-base - Geographical base data
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/geo-base)
+[Read more](https://github.com/akuckartz/data/tree/master/data/geo-base)
 
 #### health - Data related to health
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/health)
+[Read more](https://github.com/akuckartz/data/tree/master/data/health)
 
 #### landuse - Statistical and geographic data on land use
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/landuse)
+[Read more](https://github.com/akuckartz/data/tree/master/data/landuse)
 
 #### meta - Meta data about open datasets
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/meta)
+[Read more](https://github.com/akuckartz/data/tree/master/data/meta)
 
 #### structure - So-called "Strukturdaten"
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/structure)
+[Read more](https://github.com/akuckartz/data/tree/master/data/structure)
 
 #### traffic - Traffic load data
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/traffic)
+[Read more](https://github.com/akuckartz/data/tree/master/data/traffic)
 
 #### transport - Open Transport Data
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/data/transport)
+[Read more](https://github.com/akuckartz/data/tree/master/data/transport)
 
 ### tools
 
 This is the place for tools and utilities, such as the Shapefile-to-GeoJSON converter
 which helps to automatize the conversion process from one format to another.
 
-[Read more](https://github.com/KoelnAPI/data/tree/master/tools)
+[Read more](https://github.com/akuckartz/data/tree/master/tools)
 
 
 ## More
