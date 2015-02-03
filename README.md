@@ -1,16 +1,13 @@
-Convenient Open Data Repository for Cologne
-===========================================
+Linked Open Data Repository for Cologne
+=======================================
 
 ## Description
 
-This Linked Open Data repository re-publishes some open datasets for the city of Cologne
-and offers alternative formats and specific tools in order to facilitate 
+This Linked Open Data repository (re-)publishes some open datasets for the city of Cologne
+and offers alternative Linked Data formats and specific tools in order to facilitate 
 the applications of that data.
 
-## Beschreibung
-
-Dieses Linked Open Data Repository hält einige offene Datensätze der Stadt Köln bereit, um
-deren Anwendung zu erleichtern.
+Currently this is only a description of what is to be done! You are welcome to support this effort!
 
 ## Community
 
@@ -21,7 +18,7 @@ to the [KölnAPI group mailing list](https://groups.google.com/forum/#!forum/koe
 
 ### data
 
-This folder contains data, raw and converted. See README files inside the sectsion
+This folder contains linked data, raw and converted. See README files inside the section
 for additional info.
 
 #### budget - Public budget/finance data
